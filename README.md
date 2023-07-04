@@ -9,20 +9,16 @@
 
 [![Github](https://img.shields.io/github/followers/Maron09?label=Follow&style=social)](https://github.com/Maron09)
 
-<div size='20px'> Hi! My name is Chimaroke Onyebi, Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chimaroke!;I'm+a+Python+Developer...;I'm+also+Django+Web+Developer;And+I'm+a+proud+Nigerian+🇳🇬)](https://git.io/typing-svg)
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m a Python Django web Developer
-  
+- 🔭 I’m currently working on Django Projects.
 - 👯 I’m looking to collaborate on Django projects
-  
+- 🤔 I’m also working as a Freelancer at Fiverr.
 - 💬 Ask me about Python and Django
-  
-- ⚡ {{Get_to_know_me}}.
+- ⚡ Just {{Get_to_know_me}}.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -30,6 +26,12 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
+### 👉 Frameworks
+<p align="left"> 
+&emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Django" src="https://img.shields.io/badge/django-02569B?style=for-the-badge&logo=django&logoColor=white">
+   </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/chimaroke-onyebi-b70bb8197' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
