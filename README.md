@@ -29,7 +29,7 @@
 ### 👉 Frameworks
 <p align="left"> 
 &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
      <img alt="Django" src="https://img.shields.io/badge/django-02569B?style=for-the-badge&logo=django&logoColor=white">
    </a>
 
