@@ -9,7 +9,7 @@
 
 [![Github](https://img.shields.io/github/followers/Maron09?label=Follow&style=social)](https://github.com/Maron09)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chimaroke!;I'm+a+Python+Developer...;I'm+also+Django+Web+Developer;And+I'm+a+proud+Nigerian+🇳🇬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chimaroke!;I'm+a+Python+Developer...;I'm+also+a+Django+Web+Developer;And+I'm+a+proud+Nigerian+🇳🇬)](https://git.io/typing-svg)
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
