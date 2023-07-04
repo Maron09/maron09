@@ -17,11 +17,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  some Projects
+- 🔭 I’m a Python Django web Developer
   
 - 👯 I’m looking to collaborate on Django projects
   
-- 💬 Ask me about Pytho
+- 💬 Ask me about Python and Django
   
 - ⚡ {{Get_to_know_me}}.
 
