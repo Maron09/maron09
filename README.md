@@ -5,13 +5,13 @@
 
 [![Github](https://img.shields.io/github/followers/Maron09?label=Follow&style=social)](https://github.com/Maron09)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chimaroke!;I'm+a+Python+Developer...;I'm+also+a+Django+Developer;And+I'm+a+proud+Nigerian+🇳🇬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chimaroke!;I'm+a+Python+Developer...;I'm+also+a+Backend+Developer;And+I'm+a+proud+Nigerian+🇳🇬)](https://git.io/typing-svg)
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Django Projects.
-- 👯 I’m looking to collaborate on Django projects
+- 🔭 I’m currently working on Python Projects.
+- 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m also working as a Freelancer at Fiverr.
 - 💬 Ask me about Python and Django
 - ⚡ Just {{Get_to_know_me}}.
@@ -25,6 +25,12 @@
 &emsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
      <img alt="Django" src="https://img.shields.io/badge/django-02569B?style=for-the-badge&logo=django&logoColor=white">
+   </a>
+   <a href="https://www.djangoproject.com/" target="_blank"> 
+     <img alt="Flask" src="https://img.shields.io/badge/flask-02569B?style=for-the-badge&logo=flask&logoColor=white">
+   </a>
+   <a href="https://www.djangoproject.com/" target="_blank"> 
+     <img alt="Fastapi" src="https://img.shields.io/badge/fastapi-02569B?style=for-the-badge&logo=fastapi&logoColor=white">
    </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
