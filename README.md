@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on Python Projects.
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m also working as a Freelancer at Fiverr.
-- 💬 Ask me about Python and Django
+- 💬 Ask me about python, Django and Data engineering
 - ⚡ Just {{Get_to_know_me}}.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
