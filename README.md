@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **python and golang projects**
+- 👯 I’m looking to collaborate on **python, NodeJS golang projects**
 
 - 📫 How to reach me **chimarokeonyebi@gmail.com**
 
