@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/py_luffy" target="blank"><img src="https://img.shields.io/twitter/follow/py_luffy?logo=twitter&style=for-the-badge" alt="py_luffy" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
-
 - 👯 I’m looking to collaborate on **python, NodeJS golang projects**
 
 - 📫 How to reach me **chimarokeonyebi@gmail.com**
