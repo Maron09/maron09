@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maron09&label=Profile%20views&color=0e75b6&style=flat" alt="maron09" /> </p>
 
-- 🌱 I’m currently learning **Microservices in Nodejs**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **any (Nodejs and python)**
 
