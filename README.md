@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Scraping, Python and Nodejs**
 
-- 📫 How to reach me **chimarokeonyebi@gmail.com**
+- 📫 How to reach me **ezrapeter.on@gmail.com**
 
 - ⚡ Fun fact **I like soul games, Horror movies and understanding how things work**
 
