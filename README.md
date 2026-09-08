@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ezra</h1>
-<h3 align="center">A software developer with specialization in backend. I write Javascript(Node) and Python. I am also interested in collaborating with other developers both frontend and backend to build projects for fun and also solve real world problems.</h3>
+<h3 align="center">Backend developer who enjoys building things, solving problems, and working with other developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maron09&label=Profile%20views&color=0e75b6&style=flat" alt="maron09" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C# ASP>NET CORE**
 
-- 👯 I’m looking to collaborate on **any (Nodejs and python)**
+- 👯 I’m looking to collaborate on **any Project**
 
-- 💬 Ask me about **Data Scraping, Python and Nodejs**
+- 💬 Ask me about Anything **If I'm Alive I'll Answer in Seconds**
 
 - 📫 How to reach me **ezrapeter.on@gmail.com**
 
